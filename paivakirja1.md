@@ -27,8 +27,7 @@ Olin jo tuttu Gitin peruskomentojen kanssa ja hallitsen ne hyvin. Uuden oppimise
 |git reset <tiedosto>             |poistaa tiedoston staging-kohdasta|
 |git reset                        |poistaa stagingista kaikki sinne lisätyt muutokset|
 |git reset --hard                 |hylkää kaikki tallentamattomat muutokset työkansiossa|
-|git restore <tiedosto>           |peruuttaa tallentamattomat muutokset tietyssä tiedostossa ja palauttaa sen viimeisimpään
-                                    tallennettuun versioon|
+|git restore <tiedosto>           |peruuttaa tallentamattomat muutokset tietyssä tiedostossa ja palauttaa sen viimeisimpään tallennettuun versioon|
 |git revert <hash>                |luo uuden commitin, joka kumoa määritetyn commitin muutokset|
 |git log -2                       |näyttää vain kaksi viimeisintä commitia|
 |mkdir <kansio>                   |luo uuden kansion|
