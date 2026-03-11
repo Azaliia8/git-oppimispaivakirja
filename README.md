@@ -7,3 +7,4 @@
 Tämä on kurssin oppimispäiväkirja.
 
 1. [Oppimispäiväkirja 1](paivakirja1.md)
+2. [Oppimispäiväkirja 2](paivakirja2.md)
